@@ -1,0 +1,21 @@
+{
+  "name": "ralph",
+  "version": "1.0.0",
+  "description": "Ralph Wiggum loop — self-reflection agent pattern",
+  "author": "nerua1 <nerudek.vibecoder@gmail.com>",
+  "license": "MIT",
+  "type": "skill",
+  "main": "SKILL.md",
+  "keywords": ["openclaw", "skill", "ai-agent"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nerua1/ralph"
+  },
+  "bugs": {
+    "url": "https://github.com/nerua1/ralph/issues"
+  },
+  "homepage": "https://github.com/nerua1/ralph#readme",
+  "engines": {
+    "openclaw": ">=2026.4.0"
+  }
+}
