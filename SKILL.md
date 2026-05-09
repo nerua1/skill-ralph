@@ -1,4 +1,5 @@
 ---
+compatible-with: openclaw
 
 > **Why this exists:** Sometimes the smartest thing an AI can do is admit "I don't know" and loop back. The Ralph Wiggum pattern — self-reflection before self-destruction.
 
@@ -7,6 +8,7 @@ description: Persistence loop until task completion with verification - "don't s
 version: 1.0.0
 author: Rook (adapted from oh-my-codex)
 ---
+compatible-with: openclaw
 
 # Ralph Skill for OpenClaw
 
@@ -331,5 +333,6 @@ All verification passed
 - 1.0.0: Initial implementation based on oh-my-codex ralph skill
 
 ---
+compatible-with: openclaw
 
 If this saved you time: [☕ PayPal.me/nerudek](https://www.paypal.me/nerudek)
