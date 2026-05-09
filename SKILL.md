@@ -1,13 +1,17 @@
 ---
+deprecated: 2026-05-07
+replaced_by: nerua1/ralph-wiggum-loop
 compatible-with: openclaw
 
 > **Why this exists:** Sometimes the smartest thing an AI can do is admit "I don't know" and loop back. The Ralph Wiggum pattern — self-reflection before self-destruction.
 
-name: ralph
+name: ralph (DEPRECATED)
 description: Persistence loop until task completion with verification - "don't stop until it's done"
 version: 1.0.0
 author: Rook (adapted from oh-my-codex)
 ---
+deprecated: 2026-05-07
+replaced_by: nerua1/ralph-wiggum-loop
 compatible-with: openclaw
 
 # Ralph Skill for OpenClaw
@@ -333,6 +337,8 @@ All verification passed
 - 1.0.0: Initial implementation based on oh-my-codex ralph skill
 
 ---
+deprecated: 2026-05-07
+replaced_by: nerua1/ralph-wiggum-loop
 compatible-with: openclaw
 
 If this saved you time: [☕ PayPal.me/nerudek](https://www.paypal.me/nerudek)
