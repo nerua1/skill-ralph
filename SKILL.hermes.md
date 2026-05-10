@@ -3,7 +3,7 @@ name: ralph-wiggum-loop
 version: 2.1.0
 description: Persistence loop until task completion with verification — Hermes Edition
 compatible-with: hermes-agent
-supersedes: nerua1/skill-ralph
+supersedes: nerudek/skill-ralph
 ---
 
 # Ralph Wiggum Loop — Hermes Edition
@@ -96,4 +96,4 @@ Do NOT use when:
 
 ---
 
-Built by [nerua1](https://github.com/nerua1). Support: [PayPal.me/nerudek](https://www.paypal.me/nerudek)
+Built by [nerudek](https://github.com/nerudek). Support: [PayPal.me/nerudek](https://www.paypal.me/nerudek)

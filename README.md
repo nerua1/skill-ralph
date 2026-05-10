@@ -6,7 +6,7 @@ Persistence loop until task completion with verification - don't stop until it's
 
 ```bash
 # Clone to your OpenClaw skills directory
-git clone https://github.com/nerua1/skill-ralph.git ~/.openclaw/skills/ralph
+git clone https://github.com/nerudek/skill-ralph.git ~/.openclaw/skills/ralph
 
 # Or symlink if you keep skills elsewhere
 ln -s /path/to/skill-ralph ~/.openclaw/skills/ralph
